@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>8</java.version>
-        <vaadin.version>13.0.8</vaadin.version>
+        <vaadin.version>14.6.2</vaadin.version>
         <swagger2markup.version>1.2.0</swagger2markup.version>
         <springfox.version>2.9.2</springfox.version>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
